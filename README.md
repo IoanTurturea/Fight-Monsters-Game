@@ -1,2 +1,2 @@
 # Fight-Monsters-Game
-Play it from console. 3 levels.
+Written in C++. Play it from console.
